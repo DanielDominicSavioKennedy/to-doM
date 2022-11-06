@@ -1,0 +1,41 @@
+/*
+.com{
+    background-color: rgb(211, 37, 37);
+    text-decoration: line-through;
+    color: brown;
+}
+.incom{
+    
+    background-color: rgb(36, 215, 63);
+    color: rgb(51, 255, 0);
+}
+*/
+body{
+    background: url(bg.png);
+}
+.incomp{
+    text-decoration: line-through;
+}
+nav{
+    position: absolute;
+    left: 4vh;
+    font-weight: 400;
+    font-size: 10vh;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.65);
+    color: #ffffff;
+
+}
+
+.rec{
+    position: absolute;
+    top: 20%;
+    padding: 2%;
+    width: auto;
+    height: auto;
+    background: #FFFFFF;
+    box-shadow: 4px 7px 100px 5px rgba(0, 0, 0, 0.45);
+    border-radius: 4vh;
+    }
+
+
+
